@@ -149,7 +149,6 @@ nav li a{
     display: flex;
     justify-content: space-between;
     margin: 0 35px 0 200px;
-    position: relative;
-
+    
 
 }
