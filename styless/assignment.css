@@ -17,12 +17,10 @@
     background-color: #0D1321;
     font-weight: bold;
     font-size: 20px;
-    color: #FFFFFF;
+    color: white;
+    border: none;
     padding: 18px 35px;
     border-radius: 5px;
-
-
-
 }
 
 .header{
@@ -104,4 +102,54 @@ nav li a{
 .web-description{
 
     text-align: center;
+}
+
+.web{
+
+    display: flex;
+    justify-content: space-between;
+    margin:0 35px 0 200px ;
+}
+
+.btn-secondary{
+
+    background-color: #0D1321;
+    font-weight: bold;
+    font-size: 10px;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+
+}
+
+.web-content{
+
+    max-width: 580px;
+
+}
+
+.btn-secondary2{
+
+    background-color: #0D1321;
+    font-weight: bold;
+    font-size: 10px;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+
+}
+
+
+.web2{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 200px;
+    position: relative;
+
+
 }
